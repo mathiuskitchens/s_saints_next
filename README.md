@@ -1,2 +1,2 @@
-# s_saints_next
+# Soldiers & Saints
 Test with Nextjs and Shadcn for local business
